@@ -1,2 +1,38 @@
-# Gesti-n-Dentista
-Full-featured desktop application for dental clinic management built with Python and Tkinter. Handles patient records, data storage using SQLite, and generates PDF documents such as reports and summaries.
+# 🦷 Dental Clinic Management System
+
+Desktop application developed in Python using Tkinter for managing a dental clinic.
+
+---
+
+## 🚀 Features
+
+- Patient management (create, edit, delete)
+- Data storage using SQLite
+- PDF generation for reports and documents
+- User-friendly graphical interface
+
+---
+
+## 🧠 Technologies
+
+- Python  
+- Tkinter  
+- SQLite  
+- PDF generation  
+
+---
+
+## 📸 Application Preview
+
+![App Screenshot](AQUI_TU_IMAGEN)
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository  
+2. Install required dependencies  
+3. Run the main file:
+
+```bash
+python main.py
