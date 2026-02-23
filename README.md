@@ -24,7 +24,7 @@ Desktop application developed in Python using Tkinter for managing a dental clin
 
 ## 📸 Application Preview
 
-![App Screenshot](AQUI_TU_IMAGEN)
+![App Screenshot](https://github.com/FranFdez9/Gesti-n-Dentista/blob/main/Inicio%20Dentista.png)
 
 ---
 
